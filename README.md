@@ -7,4 +7,4 @@ Currently, the implemenation find categorization options and compute frequencies
 
 The file, blackList, contains generated black list.
 
-You can run it for ontology stored in OOSP from https://owl.vse.cz/ontologies/117810.owl or you can use any ontology with its URI using String onto line (need to be uncommented).
+You can run it for ontology stored in OOSP from https://owl.vse.cz/ontologies/117810.owl or you can use any ontology with its URI using String onto line (need to be uncommented) in main method.
