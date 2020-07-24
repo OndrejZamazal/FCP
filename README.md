@@ -4,7 +4,7 @@ This application is the implementation of a detection of classification options 
 Notice: The code is still experimental and some parts are "work in progress".
 
 ## Output:
-- FCP-options.csv, the list of categorization option for each ontology on input
+- FCP-options.csv, the list of categorization options for each ontology on input
 - blackList, the list of create black-list
 
 ## External java libraries
