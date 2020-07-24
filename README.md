@@ -12,4 +12,4 @@ Notice: The code is still experimental and some parts are "work in progress".
 - https://sourceforge.net/projects/jfact/files/jfact-4.0.0.jar%20%28OWLAPI%204%20and%20Protege%20plugin%29/download
 
 ## Run:
-- You can run it for ontology stored in OOSP from https://owl.vse.cz/ontologies/117810.owl or you can use any ontology with its URI
+- You can run it for ontology stored in OOSP as https://owl.vse.cz/ontologies/117810.owl or you can use any ontology with its URI
